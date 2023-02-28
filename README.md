@@ -39,6 +39,7 @@ Installation Completed!
 ## Run Locally
 
 Start the server
+path: \NewsMonkey-master\NewsMonkey-master 
 
 ```bash
   npm run start
